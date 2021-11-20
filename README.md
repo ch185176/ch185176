@@ -12,5 +12,5 @@ I am **Craig Hutcheon**. I work as a **Software Engineer @ NCR Corporation**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch185176&layout=compact&theme=dark&hide_border=true)
 
-![Craigs's github stats](https://github-readme-stats.vercel.app/api?username=ch185176&show_icons=true&hide_border=true&theme=dark)
+![Craigs's github stats](https://github-readme-stats.vercel.app/api?username=ch185176&show_icons=true&hide_border=true&theme=dark&&count_private=true)
 
