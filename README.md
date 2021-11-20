@@ -9,9 +9,8 @@ I am **Craig Hutcheon**. I work as a **Software Engineer @ NCR Corporation**.
 
 - 🔭 I’m currently working as a **Software Engineer @ NCR Corporation**
 - 🌱 I’m currently learning **.NET 6, C++/CLI, Angular**
-- 📫 How to reach me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch185176&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=ch185176&show_icons=true&hide_border=true&theme=dark)
+![Craigs's github stats](https://github-readme-stats.vercel.app/api?username=ch185176&show_icons=true&hide_border=true&theme=dark)
 
