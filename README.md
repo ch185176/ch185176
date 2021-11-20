@@ -2,7 +2,7 @@
 
 I am **Craig Hutcheon**. I work as a **Software Engineer @ NCR Corporation**.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/craig-hutcheon-234420163/)
+[![Linkedin: Ghazi](https://img.shields.io/badge/-Craig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/craig-hutcheon-234420163/)](https://www.linkedin.com/in/craig-hutcheon-234420163/)
 [![GitHub ch185176](https://img.shields.io/github/followers/ch185176?label=follow&style=social)](https://github.com/ch185176)
 
 ---
