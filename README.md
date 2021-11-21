@@ -11,6 +11,6 @@ I am **Craig Hutcheon**. I work as a **Software Engineer @ NCR Corporation**.
 - 🌱 I’m currently learning **.NET 6, C++/CLI, Angular**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ch185176&show_icons=true&theme=vision-friendly-dark&&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ch185176&show_icons=true&theme=vision-friendly-dark&&count_private=true&hide=stars,issues,contribs"/>
 </a>
 
