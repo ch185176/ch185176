@@ -8,7 +8,7 @@ I am **Craig Hutcheon**. I work as a **Software Engineer @ N-able**.
 ---
 
 - 🔭 I’m currently working as a **Software Engineer @ N-able**
-- 🌱 I’m currently learning **.NET 6, C++/CLI, Angular**
+- 🌱 I’m currently learning **GoLang & Angular**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=craigh33&show_icons=true&theme=vision-friendly-dark&&count_private=true&hide=stars,issues,contribs&&include_all_commits=true"/>
